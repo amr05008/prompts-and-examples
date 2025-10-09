@@ -5,7 +5,7 @@ A great starting point is reading the [Claude Code: Best practices for agentic c
 
 ## What's in This Repo?
 - Prompts - running list of prompts that were useful in claude, chatgpt, claude code, etc for discovery, building things, site migrations, restarting multi-step projects and closing claude sessions so they can resumed easily. 
-- Examples - Prompts you can use for testing with the Teachable MCP server 
+- Examples - prompts you can use for testing with the Teachable MCP server 
 
 ## How to Use These Prompts
 ### Getting Started
