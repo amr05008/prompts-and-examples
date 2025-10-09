@@ -1,12 +1,11 @@
 # Prompts and Tips 
-Curated collection of prompts for starting and ending Claude Code sessions, plus tips and best practices learned from real-world use. 
+Curated collection of prompts, examples and tips for using with LLMs. 
 
 A great starting point is reading the [Claude Code: Best practices for agentic coding](https://www.anthropic.com/engineering/claude-code-best-practices). 
 
 ## What's in This Repo?
-- Session Start Prompts - Effective ways to kick off a Claude Code session
-- Session End Prompts - How to wrap up sessions and capture what was done
-- Teachable MCP test prompts - prompts you can use for testing with the Teachable MCP server 
+- Prompts - running list of prompts that were useful in claude, chatgpt, claude code, etc for discovery, building things, site migrations, restarting multi-step projects and closing claude sessions so they can resumed easily. 
+- Examples - Prompts you can use for testing with the Teachable MCP server 
 
 ## How to Use These Prompts
 ### Getting Started
