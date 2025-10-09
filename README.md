@@ -1,5 +1,7 @@
 # Prompts and Tips 
-A curated collection of prompts for starting and ending Claude Code sessions, plus tips and best practices learned from real-world use. A great starting point is reading the [Claude Code: Best practices for agentic coding](https://www.anthropic.com/engineering/claude-code-best-practices). 
+Curated collection of prompts for starting and ending Claude Code sessions, plus tips and best practices learned from real-world use. 
+
+A great starting point is reading the [Claude Code: Best practices for agentic coding](https://www.anthropic.com/engineering/claude-code-best-practices). 
 
 ## What's in This Repo?
 - Session Start Prompts - Effective ways to kick off a Claude Code session
