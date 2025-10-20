@@ -28,3 +28,12 @@ Create a detailed session summary including:
 Explore my code base. I'd like to prepare this Astro site to replace the website that's currently being served on [website] (which is built on wordpress). What other considerations should I make before deploying this via Vercel? Beyond deploying via Vercel what other todo's do I have to have this site replace the current [website]? Don't make changes yet, just give me a comprehensive audit.
 
 Current status of my Astro site is contained in the claude.md file. 
+
+### Committing project short
+Create a detailed session summary including:
+- What we built/modified
+- Why we made specific technical choices  
+- Any issues encountered and solutions
+- Update claude.md with session summary
+- Update README.md ONLY if there are significant changes to project structure, setup, or features
+- Commit as "docs: [your summary]" and push
